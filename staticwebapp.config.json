@@ -4,8 +4,5 @@
       "route": "/logout",
       "redirect": "/index.html"
     }
-  ],
-  "navigationFallback": {
-      "rewrite": "/index.html"
-  }
+  ]
 }
