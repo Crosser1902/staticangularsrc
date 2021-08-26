@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/logout",
-      "redirect": "/"
+      "redirect": "/index.html"
     }
   ],
   "navigationFallback": {
